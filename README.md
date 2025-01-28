@@ -19,6 +19,6 @@ The project is created as a list of links and is available in HTML format. You c
 
 ## Adding links
 
-<a href="link_to_page" target="_blank" class="link-card">
+,,<a href="link_to_page" target="_blank" class="link-card">
 <img src="page_logo" alt="page_name">
-</a>
+</a>"
