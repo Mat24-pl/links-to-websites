@@ -15,7 +15,7 @@ The project is created as a list of links and is available in HTML format. You c
 ## How to add links?
 
 1. Open the index.html file
-2. In <div class="container">:
+2. In div class="container":
  - create tag
  <a href="page name" target="_blank" class="link-card" (remember about > on end)
 <img src="website logo" alt="Name of website" (remember about > on end)
