@@ -19,4 +19,4 @@ The project is created as a list of links and is available in HTML format. You c
  - create tag
  <a href="page name" target="_blank" class="link-card" (remember about > on end)
 <img src="website logo" alt="Name of website" (remember about > on end)
-</a>
+</a (remember about > on end)
